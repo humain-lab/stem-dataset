@@ -27,7 +27,9 @@ For anyone interested in reproducing the experiment presented in [3], in the Bal
 
 
 Cite As:
+
 Kalampokas, Τ.; Vrochidou, Ε.; Papakostas, G.A.; Pachidis, T.; Kaburlasos, V.G. Grape stem detection using regression convolutional neural networks. Comput. Electron. Agric. 2021.
+
 
 References:
 1. 	Kalampokas, T.; Tziridis, K.; Nikolaou, A.; Vrochidou, E.; Papakostas, G.A.; Pachidis, T.; Kaburlasos, V.G. Semantic Segmentation of Vineyard Images Using Convolutional Neural Networks. In 21st International Conference on Engineering Applications of Neural Networks (EANN 2020); 2020; pp. 292–303.
