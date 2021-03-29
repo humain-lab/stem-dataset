@@ -21,7 +21,7 @@ Details regarding the two datasets are summarized in Table I. Indicative images 
 
 The datasets refer to the work presented in [3]. In this work, a grape stem detection methodology in images is proposed. For this purpose, a regression convolutional neural network is applied to RGB images towards executing a stem segmentation task. Twelve Convolutional Neural Network (CNN) model architectures are investigated. Stem detection is tackled as a regression problem in a way to alleviate the imbalanced data phenomenon that may occur in vineyard images.
 
-For both datasets are provided 6 folders of images (\*.png); three are for training (Train_\*) and three are for testing (Test_\*). The three folders include the RGB images (*_Images), Ground Truth images (*_Ground_Truth) and Bi-distance map images (*_Distance_Maps).
+For both datasets are provided 6 folders of images (\*.png); three are for training (Train_\*) and three are for testing (Test_\*). The three folders include the RGB images (\*\_Images), Ground Truth images (\*\_Ground_Truth) and Bi-distance map images (\*\_Distance_Maps).
 
 For anyone interested in reproducing the experiment presented in [3], in the Balanced_Dataset folder, may also find a script (Test_Models_For_Predictions.py) that reads the testing images and loads the UNET_mobilenetv2 (.h5) model for stem regression. 
 
