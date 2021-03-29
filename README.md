@@ -1,5 +1,4 @@
 # Stem-Dataset
-Humain-Lab Stem datasets
 
 Humain-Lab Stem datasets (Ba-Dataset and ImBa-Dataset)
 
